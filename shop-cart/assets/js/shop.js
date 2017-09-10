@@ -33,10 +33,6 @@ $('.thumbnail').mouseleave(function() {
 
 });
 
-$('.carousel.homCar').carousel({
-	interval: 2500
-});
-
 $('.carousel.vertical').carousel({
 	interval: 1500
 });
