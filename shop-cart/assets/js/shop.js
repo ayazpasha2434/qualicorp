@@ -33,6 +33,14 @@ $('.thumbnail').mouseleave(function() {
 
 });
 
-$('.carousel.vertical').carousel({
-	interval: 1500
+$('#myCarousel_.vertical').carousel({
+	interval: 1000
+});
+
+$('#myCarousel').carousel({
+	interval: 3000
+});
+
+$('#newProductCar').carousel({
+	interval: 5000
 });
