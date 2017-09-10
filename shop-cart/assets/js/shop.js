@@ -36,7 +36,3 @@ $('.thumbnail').mouseleave(function() {
 $('.carousel.vertical').carousel({
 	interval: 1500
 });
-
-$('.carousel').carousel({
-	interval: 2000
-});
