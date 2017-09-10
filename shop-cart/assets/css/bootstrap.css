@@ -5571,6 +5571,10 @@ input[type="submit"].btn.btn-mini {
           transition: all 0.2s ease-in-out;
 }
 
+.custom_height {
+	height: 200px;
+}
+
 a.thumbnail:hover,
 a.thumbnail:focus {
   border-color: #0088cc;
